@@ -1,0 +1,13 @@
+speaker,start,end,text
+parent,1.36,1.48,What
+parent,1.48,1.64,do
+parent,1.64,1.8,you
+parent,1.8,2.08,want?
+parent,6.8,7.2,Ball.
+parent,7.68,8.08,Ball.
+parent,8.96,9.36,Ball.
+child,9.76,10.16,Ball.
+parent,10.64,11.04,"Ball,"
+parent,11.04,11.44,please.
+parent,11.44,11.76,Good
+parent,11.76,12.08,job.

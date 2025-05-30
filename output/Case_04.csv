@@ -1,0 +1,17 @@
+speaker,start,end,text
+parent,1.76,1.88,What
+parent,1.88,2.04,do
+parent,2.04,2.2,you
+parent,2.2,2.48,want?
+parent,3.28,3.56,I
+parent,3.56,3.8,want
+parent,3.8,4.16,ball.
+child,4.4,4.68,I
+child,4.68,4.92,want
+child,4.92,5.28,ball.
+parent,5.52,5.8,I
+parent,5.8,6,want
+parent,6,6.32,ball.
+parent,6.32,6.72,Please.
+parent,6.72,7.08,Good
+parent,7.08,7.44,job.
